@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MartinhoCarvalho
+- 👀 I'm interested in development for mobile apps
+- 🌱 I’m currently learning flutter and android kotlin
+- 💞️ I’m looking to collaborate on mobile projects
+- 📫 How to reach me try to connect by email: martinhocarvalho1987@gmail.com
